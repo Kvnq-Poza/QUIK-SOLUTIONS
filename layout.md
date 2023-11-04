@@ -40,17 +40,27 @@ We conduct in-depth SEO audits to assess your website's performance and provide 
 
 Boost your e-commerce site's visibility, increase product rankings, and drive more sales with our specialized e-commerce SEO services.
 
-### We work with businesses of all sizes, from small businesses to large enterprises. We also have experience working with a wide range of industries, including:
+## Features
 
-- Retail
-- E-commerce
-- Tourism
-  [Image of Tourism in New Zealand]
-- Hospitality
-- Professional services
-- Construction
-  [Image of Construction in New Zealand]
-- Manufacturing
+### Customized SEO Strategies
+
+- _Description:_ We develop tailored SEO strategies to meet your specific business needs and objectives, ensuring the best results for your unique requirements.
+
+### Transparent Reporting
+
+- _Description:_ Our detailed reporting system provides comprehensive insights into your website's performance and the progress of our SEO strategies, keeping you informed every step of the way.
+
+### Local Market Expertise
+
+- _Description:_ We possess in-depth knowledge of the New Zealand market, allowing us to help you effectively connect with the local audience, gain visibility, and drive growth.
+
+### Proven Track Record
+
+- _Description:_ With a proven history of improving online visibility and driving organic traffic, you can trust in our track record of delivering outstanding results.
+
+### Ethical SEO Practices
+
+- _Description:_ We strictly adhere to ethical SEO practices, ensuring long-term success for your website and avoiding penalties from search engines.
 
 ### Why choose Quik Solutions?
 
