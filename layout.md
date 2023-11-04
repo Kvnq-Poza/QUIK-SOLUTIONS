@@ -36,6 +36,10 @@ Target local customers effectively with our specialized local SEO strategies, he
 
 We conduct in-depth SEO audits to assess your website's performance and provide detailed reports, keeping you informed about the progress.
 
+### 6. **E-commerce SEO Optimization:**
+
+Boost your e-commerce site's visibility, increase product rankings, and drive more sales with our specialized e-commerce SEO services.
+
 ### We work with businesses of all sizes, from small businesses to large enterprises. We also have experience working with a wide range of industries, including:
 
 - Retail
