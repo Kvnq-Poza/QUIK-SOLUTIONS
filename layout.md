@@ -76,6 +76,34 @@ See what our clients have to say about our services:
 
 6. "Quik Solutions has been a trusted partner in our digital journey. Their transparent communication and data-driven approach set them apart. We've seen a significant ROI from their services and couldn't be happier with the positive impact they've had on our business." - Lisa Taylor, Managing Director at NZ Travel Adventures
 
+## Management Team
+
+Meet the leaders behind Quik Solutions:
+
+### John Smith
+
+**CEO and Founder**
+
+John is the visionary leader behind Quik Solutions, with over a decade of experience in the SEO industry. His innovative strategies and commitment to ethical SEO practices have been instrumental in the company's success.
+
+### Emily White
+
+**Marketing Director**
+
+Emily is the driving force behind our marketing efforts. Her expertise in digital marketing and deep understanding of the New Zealand market ensure our clients receive top-notch services.
+
+### Mark Brown
+
+**Operations Manager**
+
+Mark manages the day-to-day operations of Quik Solutions, ensuring seamless execution of SEO strategies and delivering on our promises to clients.
+
+### Lisa Taylor
+
+**Managing Director**
+
+Lisa oversees the overall management and strategic direction of Quik Solutions. Her dedication to client satisfaction and focus on delivering results are at the core of our business values.
+
 ### Why choose Quik Solutions?
 
 - We are a team of experienced and certified SEO specialists.
