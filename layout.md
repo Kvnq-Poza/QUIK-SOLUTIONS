@@ -104,14 +104,6 @@ Mark manages the day-to-day operations of Quik Solutions, ensuring seamless exec
 
 Lisa oversees the overall management and strategic direction of Quik Solutions. Her dedication to client satisfaction and focus on delivering results are at the core of our business values.
 
-### Why choose Quik Solutions?
-
-- We are a team of experienced and certified SEO specialists.
-- We have a proven track record of success in helping New Zealand businesses improve their website traffic and visibility.
-- We offer a wide range of SEO services to meet your specific needs and budget.
-- We work closely with our clients to develop and implement a customized SEO strategy.
-- We provide regular reporting and analytics so you can track your progress and see the results of our work.
-
 ### Contact us today for a free consultation
 
 We would be happy to discuss your SEO needs and goals and develop a customized SEO strategy for your business. Contact us today for a free consultation.

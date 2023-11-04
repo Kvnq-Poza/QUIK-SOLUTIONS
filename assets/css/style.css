@@ -1,5 +1,5 @@
 /* use 
-colors: #0f2236, #2c53be, #6b87d2, #FEEB00
+colors: #0f2236, #2c53be, #6b87d2, #FEEB00, #234298
 */
 
 /*--------------------------------------------------------------
@@ -90,12 +90,8 @@ h6 {
   text-transform: uppercase;
 }
 
-#header .logo a {
-  color: #556270;
-}
-
 #header .logo img {
-  max-height: 70px;
+  max-height: 50px;
 }
 
 /*--------------------------------------------------------------
@@ -129,7 +125,7 @@ h6 {
   font-family: "Poppins", sans-serif;
   font-size: 15px;
   font-weight: 500;
-  color: #556270;
+  color: #234298;
   white-space: nowrap;
   transition: 0.3s;
 }
@@ -233,7 +229,7 @@ h6 {
 * Mobile Navigation 
 */
 .mobile-nav-toggle {
-  color: #556270;
+  color: #234298;
   font-size: 28px;
   cursor: pointer;
   display: none;
@@ -290,7 +286,7 @@ h6 {
 .navbar-mobile a:focus {
   padding: 10px 20px;
   font-size: 15px;
-  color: #556270;
+  color: #234298;
 }
 
 .navbar-mobile a:hover,
@@ -560,7 +556,7 @@ section {
   font-weight: 700;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #556270;
+  color: #234298;
 }
 
 /*--------------------------------------------------------------
@@ -717,7 +713,7 @@ section {
 }
 
 .services .icon-box h4 a {
-  color: #556270;
+  color: #234298;
   transition: 0.3s;
 }
 
@@ -958,7 +954,7 @@ section {
   font-weight: 700;
   margin-bottom: 5px;
   font-size: 20px;
-  color: #556270;
+  color: #234298;
 }
 
 .team .member span {
@@ -1034,7 +1030,7 @@ section {
   display: block;
   font-weight: 600;
   font-family: "Poppins", sans-serif;
-  color: #556270;
+  color: #234298;
 }
 
 .skills .progress .skill .val {
@@ -1068,7 +1064,7 @@ section {
   border: 0;
   padding: 12px 15px 12px 0;
   transition: 0.3s;
-  color: #556270;
+  color: #234298;
   border-radius: 0;
   border-right: 2px solid white;
   font-weight: 600;
@@ -1092,7 +1088,7 @@ section {
   font-size: 26px;
   font-weight: 600;
   margin-bottom: 20px;
-  color: #556270;
+  color: #234298;
 }
 
 .features .details p {
@@ -1327,7 +1323,7 @@ section {
 
 .contact .info i {
   font-size: 20px;
-  color: #556270;
+  color: #234298;
   float: left;
   width: 44px;
   height: 44px;
@@ -1344,7 +1340,7 @@ section {
   font-size: 22px;
   font-weight: 600;
   margin-bottom: 5px;
-  color: #556270;
+  color: #234298;
 }
 
 .contact .info p {
@@ -1362,7 +1358,7 @@ section {
 .contact .info .email:hover i,
 .contact .info .address:hover i,
 .contact .info .phone:hover i {
-  background: #556270;
+  background: #234298;
   color: #fff;
 }
 
@@ -1487,7 +1483,7 @@ section {
 }
 
 .blog .entry .entry-title a {
-  color: #556270;
+  color: #234298;
   transition: 0.3s;
 }
 
@@ -1580,7 +1576,7 @@ section {
   top: 0;
   bottom: 0;
   width: 3px;
-  background-color: #556270;
+  background-color: #234298;
   margin-top: 20px;
   margin-bottom: 20px;
 }
@@ -1660,7 +1656,7 @@ section {
   font-size: 22px;
   margin-bottom: 0px;
   padding: 0;
-  color: #556270;
+  color: #234298;
 }
 
 .blog .blog-author .social-links {
@@ -1715,7 +1711,7 @@ section {
 
 .blog .blog-comments .comment h5 .reply {
   padding-left: 10px;
-  color: #556270;
+  color: #234298;
 }
 
 .blog .blog-comments .comment h5 .reply i {
@@ -1778,7 +1774,7 @@ section {
   border-radius: 4px;
   padding: 10px 20px;
   border: 0;
-  background-color: #556270;
+  background-color: #234298;
 }
 
 .blog .blog-comments .reply-form .btn-primary:hover {
@@ -1802,7 +1798,7 @@ section {
 }
 
 .blog .blog-pagination li a {
-  color: #556270;
+  color: #234298;
   padding: 7px 16px;
   display: flex;
   align-items: center;
@@ -1830,7 +1826,7 @@ section {
   font-weight: 700;
   padding: 0 0 0 0;
   margin: 0 0 15px 0;
-  color: #556270;
+  color: #234298;
   position: relative;
 }
 
@@ -1887,7 +1883,7 @@ section {
 }
 
 .blog .sidebar .categories ul a {
-  color: #556270;
+  color: #234298;
   transition: 0.3s;
 }
 
@@ -1917,7 +1913,7 @@ section {
 }
 
 .blog .sidebar .recent-posts h4 a {
-  color: #556270;
+  color: #234298;
   transition: 0.3s;
 }
 
