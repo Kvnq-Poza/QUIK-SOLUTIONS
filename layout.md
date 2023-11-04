@@ -4,8 +4,6 @@
 
 Welcome to Quik Solutions
 
-Increase your website traffic and visibility with our expert SEO services.
-
 A leading SEO specialist in New Zealand! If you are looking to enhance your online presence, boost website traffic, and improve your search engine rankings, you've come to the right place. Our expert SEO services are tailored to meet the unique needs of businesses in New Zealand, helping them thrive in the competitive online landscape.
 
 At Quik Solutions, we are a team of experienced SEO specialists who are passionate about helping New Zealand businesses succeed online. We understand the unique challenges and opportunities that businesses face, and we have the expertise to help you achieve your SEO goals.
@@ -116,5 +114,3 @@ Quik Solutions offers a wide range of SEO services, including:
 "We were struggling to get our website ranked in Google, but after working with Quik Solutions, we saw a significant increase in our traffic. We are now ranked on the first page for several of our most important keywords, and we are generating more leads than ever before." - John Smith, CEO of Acme Corporation
 
 "Quik Solutions has been a great partner for our business. They have helped us to improve our website ranking and visibility in Google, which has resulted in more traffic and leads. We are very happy with the services that Quik Solutions provides, and we highly recommend them to other businesses." - Jane Doe, Marketing Manager of XYZ Company
-
-I hope this is helpful!

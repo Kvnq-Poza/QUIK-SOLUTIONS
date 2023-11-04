@@ -1,3 +1,7 @@
+/* use 
+colors: #0f2236, #2c53be, #6b87d2, #FEEB00
+*/
+
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -549,7 +553,7 @@ section {
   width: 120px;
   height: 1px;
   display: inline-block;
-  background: #e6636a;
+  background: #feeb00;
   margin: 4px 10px;
 }
 
@@ -1000,7 +1004,7 @@ section {
   border-radius: 4px;
   width: 32px;
   height: 32px;
-  background: #8795a4;
+  background: #6b87d2;
 }
 
 .team .member .social a i {
@@ -1972,14 +1976,14 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #4a5562;
+  background: #234298;
   padding: 0 0 30px 0;
   color: #fff;
   font-size: 14px;
 }
 
 #footer .footer-top {
-  background: #515d6a;
+  background: #0f2236;
   padding: 60px 0 30px 0;
 }
 
