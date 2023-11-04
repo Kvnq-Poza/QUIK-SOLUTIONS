@@ -486,10 +486,6 @@ h6 {
   background: #2c53be;
 }
 
-.hero-text-box {
-  border: 1px solid #fff;
-}
-
 @media (max-width: 992px) {
   #hero {
     height: 100vh;
